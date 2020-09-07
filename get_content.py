@@ -31,9 +31,10 @@ def safe_get_text_content(url):
     except Exception as e:
         return None
 
+
 # this still takes 3-4 min; try asyncio or aiohttp
 with ThreadPoolExecutor(max_workers=100) as executor:
-    response = tqdm(executor.map(safe_get_text_content, data['url']))
+    response = executor.map(safe_get_text_content, tqdm(data['url']))
 
 text = [x for x in response]
 data['url_text'] = text
