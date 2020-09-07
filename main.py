@@ -27,11 +27,6 @@ results = data.copy().drop('url_text', axis=1)
 results['label'] = mod.labels_
 results.to_csv('test.csv', index=False)
 
-for cluster in range(mod.n_clusters_):
-    print(f'Cluster: {cluster}')
-    print(results['title'][results['label'] == cluster])
-    print()
-
 with open('clusters.txt', 'w') as file:
     for cluster in range(mod.n_clusters_):
         file.write(f'Cluster: {cluster}\n')
