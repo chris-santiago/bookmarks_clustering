@@ -31,3 +31,10 @@ for cluster in range(mod.n_clusters_):
     print(f'Cluster: {cluster}')
     print(results['title'][results['label'] == cluster])
     print()
+
+with open('clusters.txt', 'w') as file:
+    for cluster in range(mod.n_clusters_):
+        file.write(f'Cluster: {cluster}\n')
+        file.write('\n'.join(results['title'][results['label'] == cluster].values))
+        file.write('\n')
+        file.write('===========================================\n')
