@@ -21,7 +21,7 @@ def get_text_content(url):
     url_content = requests.get(url).text
     soup = BeautifulSoup(url_content, 'lxml')
     text = [x.text for x in soup.find_all('p')]
-    # text.insert(0, soup.title.text)
+    text.insert(0, soup.title.text)
     return ' '.join(text)
 
 

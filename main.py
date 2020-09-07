@@ -20,7 +20,7 @@ X = pd.DataFrame(
 pca = PCA(n_components=0.999)
 X_pca = pca.fit_transform(X)
 
-mod = AgglomerativeClustering(n_clusters=35)
+mod = AgglomerativeClustering(n_clusters=40)
 mod.fit(X_pca)
 
 results = data.copy().drop('url_text', axis=1)
@@ -32,4 +32,4 @@ with open('clusters.txt', 'w') as file:
         file.write(f'Cluster: {cluster}\n')
         file.write('\n'.join(results['title'][results['label'] == cluster].values))
         file.write('\n')
-        file.write('===========================================\n')
+        file.write('============================================================================\n')
