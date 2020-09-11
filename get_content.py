@@ -42,3 +42,7 @@ data['url_text'] = text
 ouput_fn = 'bookmarks_data.p'
 with open(ouput_fn, 'wb') as file:
     pickle.dump(data, file)
+
+
+
+print([x.text for x in text])
