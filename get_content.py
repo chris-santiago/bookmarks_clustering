@@ -4,7 +4,7 @@ import pickle
 import requests
 from bs4 import BeautifulSoup
 from concurrent.futures import ThreadPoolExecutor
-from tqdm import tqdm
+import time
 
 
 input_fn = 'bookmarks.p'
@@ -17,32 +17,39 @@ data = pd.DataFrame.from_records(
 )
 
 
-def get_text_content(url):
-    url_content = requests.get(url).text
-    soup = BeautifulSoup(url_content, 'lxml')
-    text = [x.text for x in soup.find_all('p')]
-    text.insert(0, soup.title.text)
-    return ' '.join(text)
-
-
-def safe_get_text_content(url):
+def get_text_content(html):
     try:
-        return get_text_content(url)
-    except Exception as e:
+        soup = BeautifulSoup(html, 'lxml')
+        text = [x.text for x in soup.find_all('p')]
+        text.insert(0, soup.title.text)
+        return ' '.join(text)
+    except Exception:
         return None
 
 
-# this still takes 3-4 min; try asyncio or aiohttp
-with ThreadPoolExecutor(max_workers=100) as executor:
-    response = executor.map(safe_get_text_content, tqdm(data['url']))
-
-text = [x for x in response]
-data['url_text'] = text
-
-ouput_fn = 'bookmarks_data.p'
-with open(ouput_fn, 'wb') as file:
-    pickle.dump(data, file)
+def fetch(url):
+    try:
+        return requests.get(url).text
+    except Exception:
+        return None
 
 
+def fetch_all(urls):
+    with ThreadPoolExecutor(max_workers=200) as executor:
+        response = executor.map(fetch, urls)
+        return [*response]
 
-print([x.text for x in text])
+
+def dump(data, file):
+    with open(file, 'wb') as fp:
+        pickle.dump(data, fp)
+
+
+if __name__ == '__main__':
+    start = time.time()
+    html = fetch_all(data['url'])
+    duration = time.time() - start
+    print(f"Downloaded {len(data['url'])} sites in {duration / 60} minutes.")
+    data['url_text'] = [get_text_content(x) for x in html]
+    ouput_fn = 'bookmarks_data.p'
+    dump(data, ouput_fn)

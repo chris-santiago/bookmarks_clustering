@@ -1,6 +1,8 @@
 import pickle
-from sklearn.feature_extraction.text import CountVectorizer, TfidfVectorizer
+from sklearn.feature_extraction.text import CountVectorizer
 from sklearn.decomposition import LatentDirichletAllocation
+from nltk.corpus import stopwords
+stop_words = stopwords.words('english')
 
 input_fn = 'bookmarks_data.p'
 with open(input_fn, 'rb') as file:
@@ -8,7 +10,7 @@ with open(input_fn, 'rb') as file:
 
 data = data.dropna().drop_duplicates().reset_index(drop=True)
 
-count_vec = CountVectorizer(stop_words='english')
+count_vec = CountVectorizer(stop_words=stop_words)
 X = count_vec.fit_transform(data['url_text'])
 
 lda = LatentDirichletAllocation(n_components=50)
