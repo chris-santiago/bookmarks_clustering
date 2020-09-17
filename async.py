@@ -33,7 +33,7 @@ async def fetch_all(urls):
 
 
 if __name__ == '__main__':
-    urls = data['url']
+    urls = data['url'][:50]
     start = time.time()
     asyncio.get_event_loop().run_until_complete(fetch_all(urls))
     duration = time.time() - start
