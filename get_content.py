@@ -49,7 +49,7 @@ if __name__ == '__main__':
     start = time.time()
     html = fetch_all(data['url'])
     duration = time.time() - start
-    print(f"Downloaded {len(data['url'])} sites in {duration / 60} minutes.")
+    print(f"Downloaded {len(data['url'])} sites in {round(duration/60, 1)} minutes.")
     data['url_text'] = [get_text_content(x) for x in html]
     ouput_fn = 'bookmarks_data.p'
     dump(data, ouput_fn)

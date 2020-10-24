@@ -19,16 +19,16 @@ def get_all(soup):
     return res
 
 
-html_file = 'bookmarks_9_5_20.html'
-with open(html_file, 'r') as file:
-    soup = BeautifulSoup(file, 'lxml')
-
-edu = get_folder('EDU', soup)
-work = get_folder('Work', soup)
-all_bookmarks = edu + work
-
-ouput_fn = 'bookmarks.p'
-with open(ouput_fn, 'wb') as file:
-    pickle.dump(all_bookmarks, file)
+def bookmarks_to_pickle(html_file, out_file='bookmarks.p'):
+    with open(html_file, 'r') as file:
+        soup = BeautifulSoup(file, 'lxml')
+    edu = get_folder('EDU', soup)
+    work = get_folder('Work', soup)
+    all_bookmarks = edu + work
+    with open(out_file, 'wb') as file:
+        pickle.dump(all_bookmarks, file)
 
 
+if __name__ == '__main__':
+    html_file = 'bookmarks_10_24_20.html'
+    bookmarks_to_pickle(html_file)

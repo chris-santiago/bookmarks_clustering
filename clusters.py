@@ -21,7 +21,7 @@ X = pd.DataFrame(
 pca = PCA(n_components=0.999)
 X_pca = pca.fit_transform(X)
 
-mod = AgglomerativeClustering(n_clusters=50)
+mod = AgglomerativeClustering(n_clusters=None, distance_threshold=2)
 mod.fit(X_pca)
 
 # mod = KMeans(n_clusters=50)
@@ -35,7 +35,7 @@ results['label'] = mod.labels_
 results.to_csv('test.csv', index=False)
 
 with open('clusters.txt', 'w') as file:
-    for cluster in range(mod.n_clusters):
+    for cluster in range(mod.n_clusters_):
         file.write(f'Cluster: {cluster}\n')
         file.write('\n'.join(results['title'][results['label'] == cluster].values))
         file.write('\n')

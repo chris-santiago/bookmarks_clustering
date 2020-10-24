@@ -1,10 +1,12 @@
+"""Takes 90 seconds"""
+
 import pandas as pd
 from from_html import Bookmark
 import pickle
 import asyncio
 import aiohttp
 import time
-
+from get_content import dump, get_text_content
 
 input_fn = 'bookmarks.p'
 with open(input_fn, 'rb') as file:
@@ -25,7 +27,7 @@ async def fetch(session, url):
 
 
 async def fetch_all(urls):
-    connector = aiohttp.TCPConnector(limit_per_host=5)
+    connector = aiohttp.TCPConnector(limit_per_host=5, limit=500)
     async with aiohttp.ClientSession(connector=connector) as session:
         results = await asyncio.gather(
             *[fetch(session, url) for url in urls],
@@ -39,4 +41,10 @@ if __name__ == '__main__':
     start = time.time()
     res = asyncio.run(fetch_all(urls))
     duration = time.time() - start
-    print(f"Downloaded {len(urls)} sites in {duration/60} minutes.")
+    print(f"Downloaded {len(urls)} sites in {round(duration/60, 1)} minutes.")
+    start = time.time()
+    data['url_text'] = [get_text_content(x) for x in res]
+    duration = time.time() - start
+    print(f"Extracted text from {len(urls)} sites in {round(duration / 60, 1)} minutes.")
+    ouput_fn = 'bookmarks_data.p'
+    dump(data, ouput_fn)
