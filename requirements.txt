@@ -1,0 +1,8 @@
+pandas
+scikit-learn
+nltk
+bs4
+requests
+lxml
+spacy
+gensim

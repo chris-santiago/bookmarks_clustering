@@ -1,12 +1,14 @@
 """Takes 90 seconds"""
 
-import pandas as pd
-from from_html import Bookmark
-import pickle
 import asyncio
-import aiohttp
+import pickle
 import time
-from get_content import dump, get_text_content
+
+import aiohttp
+import pandas as pd
+
+from old.from_html import Bookmark
+from old.get_content import dump, get_text_content
 
 input_fn = 'bookmarks.p'
 with open(input_fn, 'rb') as file:

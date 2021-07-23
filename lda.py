@@ -1,7 +1,9 @@
 import pickle
-from sklearn.feature_extraction.text import CountVectorizer
-from sklearn.decomposition import LatentDirichletAllocation
+
 from nltk.corpus import stopwords
+from sklearn.decomposition import LatentDirichletAllocation
+from sklearn.feature_extraction.text import CountVectorizer
+
 stop_words = stopwords.words('english')
 
 input_fn = 'bookmarks_data.p'
