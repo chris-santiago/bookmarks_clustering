@@ -79,6 +79,6 @@ class BookmarkProcessor:
 if __name__ == '__main__':
     start = time.time()
     processor = BookmarkProcessor(filepath=PARENT.joinpath('websites.p'))
-    processor.to_pickle('tokenized.p')
+    processor.to_pickle(PARENT.joinpath('tokenized.p'))
     duration = time.time() - start
     print(f"Process took {round(duration / 60, 1)} minutes.")

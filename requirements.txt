@@ -6,3 +6,4 @@ requests
 lxml
 spacy
 gensim
+aiohttp
