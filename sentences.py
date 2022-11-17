@@ -3,6 +3,7 @@ import pickle
 import pandas as pd
 from sentence_transformers import SentenceTransformer
 from sklearn.cluster import KMeans, AgglomerativeClustering
+from sklearn.manifold import TSNE
 
 bookmark_file = 'bookmarks_df.p'
 bookmark_data = pd.read_pickle(bookmark_file).drop_duplicates().dropna().reset_index(drop=True)
