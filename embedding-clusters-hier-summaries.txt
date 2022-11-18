@@ -1,0 +1,1050 @@
+Cluster: 0
+Applied Economics | Advanced Academic Programs | Johns Hopkins University
+Financial Mathematics | Johns Hopkins University Engineering for Professionals
+Identifying the orders of AR and MA terms in an ARIMA model
+statespace_structural_harvey_jaeger
+Residuals function | R Documentation
+Regularization: Ridge, Lasso and Elastic Net (article) - DataCamp
+10.3 Fixed Effects Regression | Introduction to Econometrics with R
+Simulating Data for Count Models - StatLab Articles
+10.2 - Autocorrelation and Time Series Methods | STAT 462
+(7) Undergraduate econometrics syllabus - YouTube
+Linear Regression - Econometrics Academy
+econometricsacademy - YouTube - YouTube
+Using regression tree ensembles to model interaction effects: a graphical approach: Applied Economics: Vol 50, No 58
+Using regression tree ensembles to model interaction effects: a graphical approach: Applied Economics: Vol 50, No 58
+Residuals Plot — Yellowbrick v1.0.1 documentation
+An Illustrated Guide to the Poisson Regression Model
+Interaction Effect in Multiple Regression: Essentials - Articles - STHDA
+16.1 Vector Autoregressions | Introduction to Econometrics with R
+Publications | Rob J Hyndman
+============================================================================
+Cluster: 1
+CSE 6040 Slack
+OMSA Study Group Slack
+Your Membership | Johns Hopkins Alumni
+Handshake
+How to Make Predictions with Keras
+Be Pythonic: __init__.py - Mike Grouchy
+Install Windows Subsystem for Linux (WSL) on Windows 10 | Microsoft Docs
+Simplify Your Python Project Configuration | Hackers and Slackers | Data Science & Engineering
+Lemur Pro - System76
+sktime — sktime 0.4.1 documentation
+foreach.pdf
+SVG Text Element | DashingD3js.com
+jetbrains ide - IntelliJ: Error: java: release version 10 not supported - Stack Overflow
+Hadoop Tutorial - YDN
+Turnitin
+Phi Kappa Phi - Founded in 1897 at the University of Maine Phi Kappa Phi is the nation's oldest largest and most selective honor society for all academic disciplines
+Beta Gamma Sigma
+Publications - Association for Financial Professionals
+AFP FP&A Learning System™ - Certified Corporate Financial Planning & Analysis Professional (FP&A)
+IMA Nation's Capital Chapter
+Codecademy
+Nelnet
+Lean Six Sigma Training - FREE!
+fast.ai · Making neural nets uncool again
+Homepage | JuliaAcademy
+Earned Badges - Acclaim
+Simplify Your Python Project Configuration | Hackers and Slackers
+Time Series Feature Extraction for industrial big data (IIoT) applications
+dash-sample-apps/apps/dash-opioid-epidemic at master · plotly/dash-sample-apps · GitHub
+Slack API: Applications | Corporate & Global Finance Slack
+Python String Format Cookbook – mkaz.blog
+Snowflake SQLAlchemy — Snowflake Documentation
+============================================================================
+Cluster: 2
+Python API Reference — xgboost 0.81 documentation
+weighted avarage, aggrefated function with apply and agg — pydata
+CUSUM Detection Example
+numpy.cumsum — NumPy v1.15 Manual
+Python Program to Multiply Two Matrices
+unscale function | R Documentation
+Principal Component Analysis
+Principal Component Analysis in R: prcomp vs princomp - Articles - STHDA
+Principal Components Analysis using R
+R style tip: prefer functions that return data frames | R-bloggers
+Overview: Why xarray? — xarray 0.13.0+2.g076f194a documentation
+Create or transform variables — mutate • dplyr
+============================================================================
+Cluster: 3
+Welcome | Flask (A Python Microframework)
+Introduction · Django Girls Tutorial
+Example: Setting up a Static Website Using a Custom Domain - Amazon Simple Storage Service
+Docker APIs on Google Cloud Platform with Python | Towards Data Science
+GitHub - Miserlou/Zappa: Serverless Python
+Flask by Example – Project Setup – Real Python
+How to build a web application using Flask and deploy it to the cloud
+Flask-Uploads — Flask-Uploads 0.1.1 documentation
+How to Easily Deploy Machine Learning Models Using Flask
+Deploy a Machine Learning Model with Flask - HyperionDev Blog
+Python Flask File Upload Example - Roy Tutorials
+More complex APIs: Upload and Download Files with Flask — Faculty 2.2.1b documentation
+viveksb007 | Uploading, Processing and Downloading Files in Flask
+Serving a model with Flask
+The Flask Mega-Tutorial Part XXIII: Application Programming Interfaces (APIs) - miguelgrinberg.com
+An introduction to the Flask Python web app framework | Opensource.com
+Deploying a Machine Learning Model as a REST API - Towards Data Science
+Welcome to Flask-SocketIO’s documentation! — Flask-SocketIO documentation
+Quickstart — Flask-RESTful 0.3.7 documentation
+Welcome to Flask — Flask Documentation (1.1.x)
+Flask-RESTful — Flask-RESTful 0.3.7 documentation
+GitHub - hackersandslackers/flask-wtform-tutorial: 📝😎Tutorial to implement forms in your Flask app.
+Create a complete Machine learning web application using React and Flask
+S3Fs — S3Fs 0.4.0+7.gab6ebbe documentation
+Using S3 Just Like a Local File System in Python - The Startup - Medium
+Template Designer Documentation — Jinja Documentation (2.11.x)
+============================================================================
+Cluster: 4
+PrettyPandas
+Beautiful Soup Documentation — Beautiful Soup 4.4.0 documentation
+Download H2O 3.22.1.3
+Creating Excel files with Python and XlsxWriter — XlsxWriter Documentation
+Creating PDF Reports with Pandas, Jinja and WeasyPrint - Practical Business Python
+Generating Excel Reports from a Pandas Pivot Table - Practical Business Python
+openpyxl - A Python library to read/write Excel 2010 xlsx/xlsm files — openpyxl 2.5.12 documentation
+HDF5 for Python
+zipfile – Read and write ZIP archive files - Python Module of the Week
+zipfile — Work with ZIP archives — Python 3.7.3 documentation
+Python safe method to get value of nested dictionary - Stack Overflow
+Practical Business Python -
+Pandas for Panel Data – Quantitative Economics
+https://pyyaml.org/wiki/PyYAMLDocumentation
+https://pyyaml.org
+Ways to sort list of dictionaries by values in Python - Using lambda function - GeeksforGeeks
+Python : How to Sort a Dictionary by key or Value ? – thispointer.com
+Send Emails Using Python
+Getting Started with Python and MongoDB | MongoDB
+Sending Emails With Python – Real Python
+You Should Start Using FastAPI Now | by Tivadar Danka | Towards Data Science
+Overview — Python YAML package documentation
+Styling — pandas 0.25.3 documentation
+Sending Emails With Python – Real Python
+Introduction to MongoDB and Python – Real Python
+collection – Collection level operations — PyMongo 3.9.0 documentation
+============================================================================
+Cluster: 5
+Welcome to LightGBM’s documentation! — LightGBM 2.2.4 documentation
+3.2.4.3.5. sklearn.ensemble.GradientBoostingClassifier — scikit-learn 0.20.3 documentation
+6 Top AutoML Frameworks for Machine Learning Applications (May 2019) - Alibaba Cloud Community
+ranger function | R Documentation
+gbm package | R Documentation
+KNN R, K-Nearest Neighbor implementation in R using caret package
+Regression Trees · UC Business Analytics R Programming Guide
+Tune Machine Learning Algorithms in R (random forest case study)
+Quick-R: Tree-Based Models
+Naïve Bayes Classifier · UC Business Analytics R Programming Guide
+The caret Package
+Tuning Machine Learning Models Using the Caret R Package
+Stepwise Regression Essentials in R - Articles - STHDA
+A Common API to Modeling and Analysis Functions • parsnip
+Quick-R: Regression Diagnostics
+Random Forests and the Bias-Variance Tradeoff – Towards Data Science
+Random Forests · UC Business Analytics R Programming Guide
+Preprocessign Data with caret
+Information package | R Documentation
+Information Package Vignette
+Machine Learning in R - Next Generation • mlr3
+Gradient Boosted Regression Trees
+Featuretools | An open source framework for automated feature engineering Quick Start
+What is Featuretools? — Featuretools 0.12.0 documentation
+Data Leakage in Machine Learning
+Flask — Host Your Python Machine Learning Model On Web
+Introduction · MLJ
+Feature Branches and Pull Requests : Walkthrough · GitHub
+============================================================================
+Cluster: 6
+What is Kubernetes - Kubernetes
+Run Python Versions in Docker: How to Try the Latest Python Release – Real Python
+Uninstall VirtualBox on Mac - Complete Removal Guide
+Developing and Delivering Software with Docker
+Install Docker Desktop on Mac | Docker Documentation
+Dockerizing Python Applications
+Docker: A High Level Introduction
+Docker Mastery: The Complete Toolset From a Docker Captain | Udemy
+Create Docker containers for Python web apps in Visual Studio Code
+Run Python Versions in Docker: How to Try the Latest Python Release – Real Python
+What is Docker and How to Use it With Python (Tutorial)
+How To Remove Docker Images, Containers, and Volumes | DigitalOcean
+Docker Documentation | Docker Documentation
+Docker Hub
+Understanding Communication Between Docker Containers - Cloudkul
+A Practical Introduction to Docker Compose - By Faizan Bashir
+Dockerize a Flask, Celery, and Redis Application with Docker Compose — Nick Janetakis
+Faster Python in Docker - Better Programming - Medium
+Configure an interpreter using Docker - Help | PyCharm
+============================================================================
+Cluster: 7
+Tidyverse
+arules package | R Documentation
+naiveBayes function | R Documentation
+pROC package | R Documentation
+perturb function | R Documentation
+Tidyverse Cookbook
+RPubs - Joining Data in R with dplyr
+Data Management in R | Quick-R
+RPubs - Data Processing with dplyr &amp; tidyr
+Quick-R: Home Page
+roc function | R Documentation
+R Package FrF2 for Creating and Analyzing Fractional Factorial 2-Level Designs | Grömping | Journal of Statistical Software
+Modelling with Tidymodels and Parsnip - Towards Data Science
+GitHub - tidymodels/tidymodels: Easily Install and Load the 'Tidymodels' Packages
+A Gentle Introduction to tidymodels · R Views
+R: Make Syntactically Valid Names
+tidyverts
+1 Introduction | Introduction to Econometrics with R
+============================================================================
+Cluster: 8
+tabulate · PyPI
+Top 15 Python Libraries for Data Science in 2017 – ActiveWizards: machine learning company – Medium
+lightning — lightning dev documentation
+PyTorch
+IPython Documentation — IPython 7.3.0 documentation
+Built-in magic commands — IPython 7.3.0 documentation
+Using IPython for parallel computing — ipyparallel 6.3.0.dev documentation
+GitHub - ipython/ipyparallel: Interactive Parallel Computing in Python
+Overview and getting started — ipyparallel 6.3.0.dev documentation
+spaCy · Industrial-strength Natural Language Processing in Python
+Installation — nbsphinx version 0.4.2
+Download Python | Python.org
+CoCalc - Run Jupyter Notebooks Online
+Built-in magic commands — IPython 7.2.0 documentation
+PY4E - Python for Everybody
+Installation - TPOT
+Downloads - the bpython interpreter
+Octave-Forge download | SourceForge.net
+The Atlas toolkit
+lightning — lightning dev documentation
+tpot/README.md at master · EpistasisLab/tpot · GitHub
+Using ipyparallel — Computational Statistics in Python
+Intro to Threads and Processes in Python - Brendan Fortuner - Medium
+GitHub - snowflakedb/snowflake-sqlalchemy: Snowflake SQLAlchemy
+============================================================================
+Cluster: 9
+sklearn.model_selection.cross_val_score — scikit-learn 0.20.3 documentation
+Model Selection
+Gradient boosting: Distance to target
+Linear Programming with Python and PuLP – Part 6 – Ben Alex Keen
+rpart function | R Documentation
+CRAN - Package vtreat
+mice function | R Documentation
+Parallel Processing in R
+How Selections Work
+Promise - JavaScript | MDN
+Passing Multiple Values in MapReduce Part 1: Strings
+Beginners Guide to Apache Pig
+Pig Latin Average Function - Thomas Henson
+Apache Pig - Quick Guide - Tutorialspoint
+GROUP operator in Apache Pig | SquareCog's SquareBlog
+Java If ... Else
+BigData World: Hadoop MapReduce Chaining Example
+Effect of transforming the targets in regression model — scikit-learn 0.21.3 documentation
+5.1. Pipelines and composite estimators — scikit-learn 0.21.3 documentation
+Quick Start — tsfresh 0.12.0 documentation
+sklearn.multioutput.RegressorChain — scikit-learn 0.22 documentation
+============================================================================
+Cluster: 10
+An introduction to parallel programming using Python's multiprocessing module
+multiprocessing — Process-based parallelism — Python 3.8.0a2 documentation
+Parallel Processing in Python - A Practical Guide with Examples | ML+
+Scheduling a Python script or model to run at a prescribed time
+GitHub - dbader/schedule: Python job scheduling for humans.
+simpy · PyPI
+Queuing System Discrete Event Simulation in Python (Process interaction) - YouTube
+Events — SimPy 3.0.11 documentation
+Embarrassingly parallel for loops — joblib 0.13.2 documentation
+Speed Up Your Python Program With Concurrency – Real Python
+Python: A quick introduction to the concurrent.futures module | Abu Ashraf Masnun
+concurrent.futures — Manage Pools of Concurrent Tasks — PyMOTW 3
+Parallelising Python with Threading and Multiprocessing | QuantStart
+Python Multithreading Tutorial: Concurrency and Parallelism | Toptal
+Multiprocessing in Python | Set 1 (Introduction) - GeeksforGeeks
+Asynchronous Tasks with Flask and Redis Queue | TestDriven.io
+Using Celery With Flask - miguelgrinberg.com
+GitHub - mjhea0/flask-redis-queue: Example of how to handle background processes with Flask, Redis Queue, and Docker
+GitHub - Parallels/rq-dashboard: Flask-based web front-end for monitoring RQ queues
+Get started with Docker Compose | Docker Documentation
+============================================================================
+Cluster: 11
+GT | GT Login
+BuzzPort Login
+Georgia Tech :: Account Management :: Passport
+Georgia Tech OMS Analytics - Google+
+Georgia Tech Email Services :: Login
+GitHub - GATech
+JHU Carey Store
+Google Analytics Customer Revenue Prediction | Kaggle
+GAM: The Predictive Modeling Silver Bullet | Stitch Fix Technology – Multithreaded
+UMUC
+Dashboard | GARP
+============================================================================
+Cluster: 12
+Create an isolated Python 3.4 environment with Boto 3 on EC2 using virtualenv
+AWS Lambda Deployment Package in Python - AWS Lambda
+Tutorial: Deploy an Updated Lambda Function with CodeDeploy and the AWS Serverless Application Model - AWS CodeDeploy
+AWS Digital and Classroom Training
+How to Use Docker Containers with AWS EC2 | HostAdvice
+Home | AWS Training & Certification
+boto: A Python interface to Amazon Web Services — boto v2.49.0
+AWS SDK for Python
+Boto 3 Documentation — Boto 3 Docs 1.9.217 documentation
+Create a REST API in AWS - Hackers and Slackers - Hackers and Slackers
+Content Replication Using AWS Lambda and Amazon S3 | AWS Compute Blog
+How to Deploy Docker Containers – AWS
+How to build an AWS Lambda function with Python 3.7 (the right way) – Nicola Pietroluongo – PHP, Javascript, Python, cloud computing, CSS, HTML, web developing and more
+How to use Docker of AWS Lambda(python 3.6) to build an application.
+============================================================================
+Cluster: 13
+seaborn: statistical data visualization — seaborn 0.9.0 documentation
+Matplotlib: Python plotting — Matplotlib 3.0.2 documentation
+User's Guide — Matplotlib 3.0.2 documentation
+Welcome to Bokeh — Bokeh 1.0.4 documentation
+Python Graphing Library, Plotly
+Letter-value plots: Boxplots for large data
+Charting the waters: between Bokeh and D3
+Matplotlib: Python plotting — Matplotlib 3.0.0 documentation
+plotly.express: high-level interface for data visualization — 4.2 documentation
+Visualizing Network Graphs — Bokeh 2.0.2 Documentation
+Python Plotting With Matplotlib (Guide) – Real Python
+Demo Annotation Box — Matplotlib 3.2.1 documentation
+seaborn.pairplot — seaborn 0.11.0 documentation
+CRAN - Package corrplot
+CRAN - Package skimr
+CRAN - Package lattice
+CRAN - Package cowplot
+Understanding Boxplots – Towards Data Science
+Data Visualization and D3.js | Udacity
+Nesting and Accessing Data in D3v4 | Amber Thomas Data Portfolio & Blog
+plotly.express.choropleth_mapbox — 4.9.0 documentation
+Customizing Matplotlib with style sheets and rcParams — Matplotlib 3.1.1 documentation
+Style sheets reference — Matplotlib 3.1.1 documentation
+Getting Started with Plotly | Python | Plotly
+Plotly Express | Python | Plotly
+API Documentation — nxviz 0.3 documentation
+============================================================================
+Cluster: 14
+How to Create an ARIMA Model for Time Series Forecasting in Python
+pmdarima: ARIMA estimators for Python — pmdarima 1.2.0 documentation
+Build High Performance Time Series Models using Auto ARIMA in Python and R
+Pyramid: ARIMA estimators for Python — pyramid 0.9.0 documentation
+Prophet | Prophet is a forecasting procedure implemented in R and Python. It is fast and provides completely automated forecasts that can be tuned by hand by data scientists and analysts.
+Fast Cross Correlation and Time Series Synchronization in Python - Lex Fridman
+tslearn’s documentation — tslearn 0.1.29 documentation
+numpy.correlate — NumPy v1.16 Manual
+Quick Start | Prophet
+Darts: Time Series Made Easy in Python | by Julien Herzen | Unit8 - Big Data & AI | Medium
+unit8co/darts: A python library for easy manipulation and forecasting of time series.
+CRAN - Package BEST
+PerformanceAnalytics package | R Documentation
+CRAN - Package astsa
+smooth package | R Documentation
+Forecasting Functions for Time Series and Linear Models • forecast
+Welcome to STAT 510! | STAT 510
+Chapter 4 Basic time series functions in R | Applied Time Series Analysis for Fisheries and Environmental Sciences
+tsfresh — tsfresh 0.12.0 documentation
+Time Series FeatuRe Extraction on basis of Scalable Hypothesis tests (tsfresh – A Python package) - ScienceDirect
+datetime — Basic date and time types — Python 3.7.5rc1 documentation
+How to Use Power Transforms for Time Series Forecast Data with Python
+RPubs - Dynamic Time Warping (DTW) and time series clustering
+Time series forecasting — tsfresh 0.12.0 documentation
+Tsfresh Features and Regression Blend | Kaggle
+Forecasting — arch 4.11 documentation
+holidays · PyPI
+Dynamic Time Warping (DTW) - Data Driven Investor - Medium
+Implementing Facebook Prophet efficiently - Towards Data Science
+Structural Time Series modeling in TensorFlow Probability — The TensorFlow Blog
+rinterested.github.io/statistics/acf_pacf.html
+Basic Time Series Analysis
+============================================================================
+Cluster: 15
+Blackboard
+Estimation, Out-of-sample Validation, and Forecasting
+r - Rescale predictions of regression model fitted on scaled predictors - Cross Validated
+dimensionality reduction - How to reverse PCA and reconstruct original variables from several principal components? - Cross Validated
+Checking Data Assumptions - Learn JS Data
+regression - Principled way of collapsing categorical variables with many levels? - Cross Validated
+sklearn.model_selection.TimeSeriesSplit — scikit-learn 0.21.3 documentation
+sklearn.model_selection.TimeSeriesSplit — scikit-learn 0.22 documentation
+Time Series Cross-validation — a walk forward approach in python
+============================================================================
+Cluster: 16
+sklearn-pandas · PyPI
+GitHub - scikit-learn-contrib/sklearn-pandas: Pandas integration with sklearn
+From Pandas to Scikit-Learn — A new exciting workflow
+brew · PyPI
+scikit-learn: machine learning in Python — scikit-learn 0.20.1 documentation
+Python Data Analysis Library — pandas: Python Data Analysis Library
+GitHub - Menelau/DESlib: A Python library for dynamic classifier and ensemble selection
+Pandas and Tidy Data | Ji ZHANG's Blog
+Save and Load Machine Learning Models in Python with scikit-learn
+scikit-learn: machine learning in Python — scikit-learn 0.20.0 documentation
+Pymc-Learn: Practical probabilistic machine learning in Python
+GitHub - scikit-learn-contrib/DESlib: A Python library for dynamic classifier and ensemble selection
+============================================================================
+Cluster: 17
+DVA Project Ideas - Google Docs
+DVA Project - Google Drive
+cse6242-2019fall-online-project-description
+Dedupe 1.9.9 — dedupe 1.9.9 documentation
+Projects — DataRobot Python Client 2.16.0 documentation
+User Guides — Boto 3 Docs 1.12.13 documentation
+Overview — H2O 3.28.0.4 documentation
+Home - Cookiecutter Data Science
+SQLite FTS3 and FTS4 Extensions
+Google Knowledge Graph Search API  |  Knowledge Graph Search API  |  Google Developers
+Sixth Edition APA Manual
+Purdue OWL: Chicago Manual of Style 16th Edition
+Bibme: Generate a book citation in APA
+APA Citation Style | Cornell University Library
+ML Data Pipelines with Custom Transformers in Python
+============================================================================
+Cluster: 18
+Natural Language Toolkit — NLTK 3.4 documentation
+Topic Modeling with Gensim. A guide to get started with… | by Tara Boyle | Towards Data Science
+4 Relationships between words: n-grams and correlations | Text Mining with R
+Calculating a Co-Occurrence Matrix With Hadoop - Random Thoughts on Coding
+Latent Dirichlet Allocation (LDA) with Python
+Python for NLP: Topic Modeling
+Gensim Topic Modeling - A Guide to Building Best LDA models
+NLP with Python: Text Feature Extraction - Sanjaya’s Blog
+Using pre-trained word embeddings
+============================================================================
+Cluster: 19
+Stationarity and differencing of time series data
+Time Series Prediction with LSTM Recurrent Neural Networks in Python with Keras
+exponential_smoothing
+Time Series Analysis: KERAS LSTM Deep Learning - Part 1
+Forecasting: Principles and Practice
+Predictive Analytics · UC Business Analytics R Programming Guide
+Forecasting: Principles and Practice
+GluonTS - Probabilistic Time Series Modeling — GluonTS documentation
+Multi-step Time Series Forecasting with Machine Learning for Electricity Usage
+How to Develop Multi-Step LSTM Time Series Forecasting Models for Power Usage
+Automated Feature Engineering for Time Series Data
+exponential_smoothing
+Time Series Analysis with LSTM using Python's Keras Library
+How to Use Timesteps in LSTM Networks for Time Series Forecasting
+Methods to improve Time series forecast (including ARIMA, Holt's winter)
+How to Build Exponential Smoothing Models Using Python: Simple Exponential Smoothing, Holt, and…
+Time Series for scikit-learn People (Part III): Horizon Optimization | Ethan Rosenthal
+Holt-Winters Forecasting for Dummies - Part III - Gregory Trubetskoy
+============================================================================
+Cluster: 20
+Welcome to Java for Python Programmers — Java for Python Programmers
+JavaScript | MDN
+JavaScript Tutorial
+JavaScript Introduction
+PlayCode - Code Sandbox. Online Code Editor
+Repl.it - Online Java Editor and IDE - Fast, Powerful, Free
+Java Programming Cheatsheet
+Java Convert String to int - javatpoint
+Object Oriented Programming in Java | Coursera
+Java Programming I | UCLA Continuing Education
+Introduction to Node.js
+jQuery API Documentation
+============================================================================
+Cluster: 21
+Gephi
+GitHub - tgsmith61591/pmdarima: A package that brings R's beloved auto.arima to Python, making an even stronger case for why Python > R for data science.
+A Guide to Creating and Hosting a Personal Website on GitHub | Jonathan McGlone | Librarian, Front-End Developer, Digital Publisher, Project Manager, Music Enthusiast, Web Noodler.
+GitHub - tuanavu/airflow-tutorial at v0.7
+ValueError: '' does not appear to be an IPv4 or IPv6 address · Issue #3946 · jupyter/notebook · GitHub
+GitHub - matroid/dlwithtf: TensorFlow for Deep Learning Book
+rjurney/Agile_Data_Code_2: Code for Agile Data Science 2.0, O'Reilly 2017, Second Edition
+CoreyMSchafer (Corey Schafer)
+Learning from Examples · Mindsdb
+GitHub - hadley/rvest: Simple web scraping for R
+autopear/Intellij-Hadoop: Run Hadoop program using Intellij
+GitHub - monisjaved/Data-Processing-With-Hadoop: Text Processing Using Hadoop
+GitHub
+GitHub - facebookresearch/kill-the-bits: Code for: "And the bit goes down: Revisiting the quantization of neural networks"
+How to use Google Colaboratory to clone a GitHub Repository to your Google Drive?
+GitHub - EthanRosenthal/skits: scikit-learn-inspired time series
+GitHub - abhinavsagar/Machine-Learning-Deployment-Tutorials: Sample end to end projects from data collection to putting models into production
+GitHub - frankzickert/jupyterlab-configuration: Containerized and Script-controlled JupyterLab Project Environment
+GitHub - autopear/Intellij-Hadoop: Run Hadoop program using Intellij
+Git - git-commit Documentation
+How to Add a New Remote to your Git Repo | Assembla Help Center
+Adding an existing project to GitHub using the command line - GitHub Help
+Renaming a repository - GitHub Help
+Hello World · GitHub Guides
+How to update your Git credentials on Windows
+Getting started with Git and GitHub: the complete beginner’s guide
+============================================================================
+Cluster: 22
+d3/API.md at master · d3/d3
+About this guide - Learn JS Data
+Simple d3.js bar chart - bl.ocks.org
+Scale functions | D3 in Depth
+D3.js - Data-Driven Documents
+javascript - reversed Y-axis D3 - Stack Overflow
+Margin Convention - bl.ocks.org
+Making Dynamic Scales and Axes | DashingD3js.com
+Time Intervals - D3 wiki
+Force layout | D3 in Depth
+5 Crucial Concepts for Learning d3.js and How to Understand Them
+d3.quantize / D3 / Observable
+D3 4.0 Sequential Scales Explorer - bl.ocks.org
+General Update Pattern, I - bl.ocks.org
+General Update Pattern, III - bl.ocks.org
+d3/d3-fetch: Convenient parsing for Fetch.
+D3: Promise Syntax & Examples
+Data manipulation in d3.js
+d3v4 Multi-Line Chart with 2 Layers of Nesting - bl.ocks.org
+============================================================================
+Cluster: 23
+Databricks Community Edition
+Visualising My Facebook Network Clusters - Towards Data Science
+Linear Regression in R
+Data Exploration & Machine Learning, Hands-on
+How to do R Programming on Cloud - R & RStudio
+Big Data with Hadoop and Spark Online Training (With Certification) | CloudxLab
+A MapReduce overview - Towards Data Science
+Microsoft Professional Program in Big Data | edX
+Business Analytics Online Course | Led by Expert Mentors
+Big Data and Data Science Online Program | Continuing Studies
+Data Science | Johns Hopkins University Engineering for Professionals
+Data Mining and Applications Graduate Certificate | Stanford Center for Professional Development
+Foundations in Computer Science Graduate Certificate | Stanford Online
+Powerful Page Templates in Flask With Jinja
+============================================================================
+Cluster: 24
+Generating network graphs with Python and pygexf – Fredrik Bergstrand's Weblog
+10.7. glob — Unix style pathname pattern expansion — Python 2.7.16 documentation
+Iterating Over Arrays — NumPy v1.16 Manual
+Configuration — Read the Docs Sphinx Theme 0.4.2 documentation
+Overview — Conda documentation
+path - How to change the Jupyter start-up folder - Stack Overflow
+NetworkX — NetworkX
+Recursion vs. Looping in Python - By
+Shortest Paths — NetworkX 1.10 documentation
+Cymath | Math Problem Solver with Steps | Math Solving App
+python - Find current directory and file's directory - Stack Overflow
+Home - tqdm documentation
+Python Tutorial: Recursive Functions
+============================================================================
+Cluster: 25
+Documentation for rpy2 — rpy2 3.0.1 documentation
+Installation · IRkernel
+Cheatsheets - RStudio
+R Markdown Python Engine
+How to Install R in Jupyter with IRKernel in 3 Steps?
+Installation · IRkernel
+RStudio Cheat Sheets - RStudio
+Rpy2 :: Anaconda Cloud
+Graphics — rpy2 3.3.0 documentation
+============================================================================
+Cluster: 26
+Installation — JupyterLab 0.35.4 documentation
+Boosting Your Jupyter Notebook Productivity – Towards Data Science
+Using as a command line tool — nbconvert 5.4.0.dev0 documentation
+GitHub - jupyter/nbconvert: Jupyter Notebook Conversion
+Is it possible to add .css style to Jupyter notebook from separate file? - Stack Overflow
+Run Project Jupyter Notebooks On Amazon EC2
+Jupyter Notebooks on AWS EC2 in 15 (mostly easy) steps
+Tutorial: Running R Jupyter Notebooks on AWS EC2 – Sophie Haynes
+Overview — Jupyter Documentation 4.1.1 alpha documentation
+Set up a Jupyter Notebook Server - Deep Learning AMI
+Books with Jupyter
+Jupyter is now a full-fledged IDE | by Dimitris Poulopoulos | Towards Data Science
+Jupyter Notebook Server with AWS EC2 and AWS VPC | Post | Coding For Entrepreneurs
+Understanding Amazon SageMaker notebook instance networking configurations and advanced routing options | AWS Machine Learning Blog
+LaTeX - Mathematical Python
+JupyterLab Documentation — JupyterLab 1.1.1 documentation
+How to Setup Your JupyterLab Project Environment - Towards Data Science
+Jupyter Docker Stacks — docker-stacks latest documentation
+How to remove previous version from Jupyter? - Stack Overflow
+============================================================================
+Cluster: 27
+How to Develop Your First XGBoost Model in Python with scikit-learn
+xgboost/parameter.rst at master · dmlc/xgboost · GitHub
+Avoid Overfitting By Early Stopping With XGBoost In Python
+Get Started with XGBoost — xgboost 0.81 documentation
+XGBoost Parameters — xgboost 0.81 documentation
+Complete Guide to Parameter Tuning in XGBoost (with codes in Python)
+[Tutorial] Time Series forecasting with XGBoost | Kaggle
+XGBoost Documentation — xgboost 0.81 documentation
+XGBoost Time Series | Kaggle
+Xgboost presentation
+How to Tune the Number and Size of Decision Trees with XGBoost in Python
+Tutorials - CatBoost. Documentation
+============================================================================
+Cluster: 28
+Matt Davis: A Practical Introduction to Airflow | PyData SF 2016 - YouTube
+Airflow tutorial 1: Introduction to Apache Airflow - YouTube
+Apache Airflow Tutorials - YouTube
+GitHub - apache/airflow: Apache Airflow
+Understanding Apache Airflow’s key concepts – Dustin Stansbury – Medium
+Apache Airflow Documentation — Airflow Documentation
+Get started developing workflows with Apache Airflow - Michał Karzyński
+Getting started with Apache Airflow – Towards Data Science
+Apache-Airflow : A practical guide – Srivathsan K R – Medium
+airflow.sensors.external_task_sensor — Airflow Documentation
+Error while install airflow: By default one of Airflow's dependencies installs a GPL - Stack Overflow
+Prefect Core - Prefect
+ Linode
+Use conditional tasks with Apache Airflow - Guillaume Payen - Medium
+airflow-tutorial/README.md at master · hgrif/airflow-tutorial · GitHub
+Airflow tutorial 2: Set up airflow environment with docker - Apply Data Science
+Apache Airflow Installation on Ubuntu - taufiq ibrahim - Medium
+Getting Started With Airflow · GitHub
+Tianlong's Blog - A Guide On How To Build An Airflow Server/Cluster
+Manage Data Pipelines with Apache Airflow | Hackers and Slackers
+Orchestration and DAG Design in Apache Airflow — Two Approaches
+Creating a dynamic DAG using Apache Airflow - Towards Data Science
+Creating Dynamic Tasks Apache Airflow | Official Pythian Blog
+Manage Data Pipelines with Apache Airflow
+We’re All Using Airflow Wrong and How to Fix It - Bluecore Engineering - Medium
+Building an AWS Serverless ML Pipeline with Step Functions
+docker-airflow/README.md at master · puckel/docker-airflow · GitHub
+============================================================================
+Cluster: 29
+reStructuredText Directives
+Stanford CoreNLP – Natural language software | Stanford CoreNLP
+Jekyll • Simple, blog-aware, static sites | Transform your plain text into static websites and blogs
+RestructuredText Guide — The RestructuredText Book 0.1 documentation
+Mastering Markdown · GitHub Guides
+ReST – reStructuredText — Rest and Sphinx Memo v1.1-29-g98998ab documentation
+Jupyter And R Markdown: Notebooks With R (article) - DataCamp
+R Markdown: The Definitive Guide
+flexdashboard: Easy interactive dashboards for R
+Markdown Guide: Basics, Tips and Tricks on how to use Markdown
+How to Set Up & Use Atom as a Markdown Editor - Portent
+Python Docstrings: Reference & Examples
+Start a new git repository
+GitHub Markdown CSS demo
+============================================================================
+Cluster: 30
+Team_NOVA Bios - Google Sheets
+command prompt - How to zip a file using cmd line? - Stack Overflow
+python - pip install fails with "connection error: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:598)" - Stack Overflow
+python - Use package from Github in Conda Virtual Environment - Stack Overflow
+Logistic regression - defining reference level in R - Stack Overflow
+r - Caret package - defining Positive result - Stack Overflow
+machine learning - R: using ranger with caret, tuneGrid argument - Stack Overflow
+d3.js - Plot multiple lines in a for loop in d3 - Stack Overflow
+join - SQLite -- joining two subqueries - Stack Overflow
+python - Proper way to create dynamic workflows in Airflow - Stack Overflow
+amazon emr - Using Json Input Variables In Airflow EMR Operator - Stack Overflow
+python - Store and access password using Apache airflow - Stack Overflow
+============================================================================
+Cluster: 31
+Apply Operations To Elements
+Steps to Write and Execute a Shell Script - javatpoint
+Rodeo
+Vi / Vim: Save And Quit The Editor Command - nixCraft
+Top (Bash Reference Manual)
+How to create a universal (script) file for a Mac, based on several Terminal commands - Ask Different
+Upgrading Bash on macOS - ITNEXT
+Quickly Show/Hide Hidden Files on macOS Sierra, OS X El Capitan & Yosemite | Ian Lunn - Front-end Developer
+Home | Vim Cheat Sheet
+Getting Started — Scientific Python Cookiecutter 0.1 documentation
+rodyager/RWTS-PDFwriter: An OSX print to pdf-file printer driver
+R-essentials installed successfully, but no libraries available (MAC) · Issue #384 · IRkernel/IRkernel · GitHub
+Sticky Force Layout - bl.ocks.org
+D3 nest examples
+My Courses | CloudxLab
+FTP - Online LaTeX Editor Overleaf
+How to Allow Apps from Anywhere in macOS Gatekeeper (Mojave, Sierra, High Sierra)
+dcc.Slider | Dash for Python Documentation | Plotly
+Tutorial: Deploying a machine learning model to the web
+GitHub - viveksb007/camscanner_watermark_remover: This Flask App would remove CamScanner watermark from scanned pdfs.
+10 Must know terminal commands and tips for productivity (Mac edition)
+Introduction · Bootstrap v4.5
+How to Install MySQL on Mac OSX - Employbl - Medium
+Configure PostgreSQL on your Mac from scratch - ITNEXT
+============================================================================
+Cluster: 32
+ Sphinx 2.0.0+/f8a2e7a documentation
+Documenting Your Project Using Sphinx — an_example_pypi_project v0.0.5 documentation
+A Simple Tutorial on How to document your Python Project using Sphinx and Rinohtype
+Overview — Sphinx 2.0.0+/8b687ac documentation
+Sphinx 2.1.0+/cafc522f documentation
+An idiot’s guide to Python documentation with Sphinx and ReadTheDocs – Samposium
+Example Google Style Python Docstrings — Sphinx 1.5.6 documentation
+Getting Started with Sphinx / Autodoc: Part 1 - Michael Dunn - Medium
+API Reference — tslearn 0.2.5 documentation
+============================================================================
+Cluster: 33
+gensim: Topic modelling for humans
+Unable to pip install · Issue #13 · tgsmith61591/pmdarima · GitHub
+Miniconda — Conda documentation
+Why You Need Python Environments and How to Manage Them with Conda
+Install Python on Windows (Anaconda) – Michael Galarnyk – Medium
+Command reference — conda 4.6.7.post6+3bffc380 documentation
+How To Install Anaconda on Ubuntu 18.04 [Quickstart] | DigitalOcean
+Managing environments — conda 4.6.8.post8+e3f1b5d6 documentation
+MKL Optimizations — Anaconda documentation
+Anaconda is Bloated - Set up a lean, robust data science environment
+2 minute recipe: How to rollback your conda environment
+============================================================================
+Cluster: 34
+Julia Downloads
+Home · The Julia Language
+Complex logic at breakneck speed: Try Julia for data science
+Juno
+A Complete Tutorial to Learn Data Science with Julia from Scratch
+Will Julia Replace Python for Data Science? | Dimensionless Technologies
+Pkg · The Julia Language
+Game-Changing Packages – Julia Computing
+Julia vs. Python: Which is best for data science? | InfoWorld
+GLM Documentation · GLM
+JuliaStats/RDatasets.jl: Julia package for loading many of the data sets available in R
+Getting Started - DataFrames.jl
+Basics · JuliaDB.jl
+A Deep Introduction to Julia for Data Science and Scientific Computing¶
+Julia Archives - Stochastic Lifestyle
+============================================================================
+Cluster: 35
+JHU
+VMock
+Meet PyCharm - Help | PyCharm
+VizHub.com
+STATA Login
+Login - EdAssist
+Home - EdAssist
+Incoming WebHooks | Slack App Directory
+============================================================================
+Cluster: 36
+sklearn.linear_model.SGDRegressor — scikit-learn 0.20.3 documentation
+Optimization (scipy.optimize) — SciPy v1.1.0 Reference Guide
+sklearn.linear_model.SGDRegressor Python Example
+sklearn.model_selection.GridSearchCV — scikit-learn 0.20.3 documentation
+pymc-devs/pymc3: Probabilistic Programming in Python: Bayesian Modeling and Probabilistic Machine Learning with Theano
+PyMC3 Documentation — PyMC3 3.8 documentation
+Welcome to pyGAM’s documentation! — pyGAM documentation
+dswah/pyGAM: [HELP REQUESTED] Generalized Additive Models in Python
+CRAN - Package mgcv
+Optimization Using R
+Generalized Additive Models
+sklearn.linear_model.BayesianRidge — scikit-learn 0.22.1 documentation
+python - How do I use a TimeSeriesSplit with a GridSearchCV object to tune a model in scikit-learn? - Stack Overflow
+Smoothing time series in Pandas | Bartosz Mikulski
+============================================================================
+Cluster: 37
+TensorFlow
+Home - Keras Documentation
+How to install Keras with a TensorFlow backend for deep learning | In Machines We Trust
+Deep Learning With Jupyter Notebooks In The Cloud (article) - DataCamp
+Get started with deep learning using the AWS Deep Learning AMIs | AWS
+GitHub - fchollet/deep-learning-with-python-notebooks: Jupyter notebooks for the code samples of the book "Deep Learning with Python"
+TensorFlow for R
+Practical Deep Learning for Coders, v3 | fast.ai course v3
+TensorFlow 2 for Deep Learning | Coursera
+Apache MXNet | A flexible and efficient library for deep learning.
+Dive into Deep Learning — Dive into Deep Learning 0.7.1 documentation
+Python Tutorials — Apache MXNet documentation
+Gluon — Apache MXNet documentation
+Deep Learning - The Straight Dope — The Straight Dope 0.1 documentation
+Dive into Deep Learning — Dive into Deep Learning 0.14.4 documentation
+Packages | Julia Observer
+MXNet.jl
+============================================================================
+Cluster: 38
+SQLAlchemy - The Database Toolkit for Python
+SQLite in Python (article) - DataCamp
+Practical SQLite Commands That You Don't Want To Miss
+MySQL :: MySQL 8.0 Reference Manual :: 3.3.1 Creating and Selecting a Database
+Getting Started with MySQL in Python (article) - DataCamp
+Installing MySQL in a Mac OS X environment - Java SDK for BB OS 7.1 - BlackBerry Developer
+Working with Engines and Connections — SQLAlchemy 1.3 Documentation
+SQL Expression Language Tutorial — SQLAlchemy 1.3 Documentation
+pandas.DataFrame.to_sql — pandas 0.25.3 documentation
+============================================================================
+Cluster: 39
+MLlib | Apache Spark
+Apache Spark™ - Unified Analytics Engine for Big Data
+Learn Big Data Hadoop Tutorial - javatpoint
+Hadoop & Mapreduce Examples: Create your First Program
+Hadoop Hello World Example | Examples Java Code Geeks - 2019
+How to Chain MapReduce Job in Hadoop - KnpCode
+Hadoop MapReduce Join & Counter with Example
+MapReduce Example | Reduce Side Join MapReduce Example | Edureka
+ChainMapper (Apache Hadoop Main 2.7.0 API)
+multipleJobsSingle
+Overview - Spark 2.4.4 Documentation
+pyspark package — PySpark master documentation
+============================================================================
+Cluster: 40
+Flask’s Latest Rival in Data Science | by S Ahmad | Towards Data Science
+Building a Basic RestFul API in Python | Codementor
+Building a Microservice in Python - Sonu Sharma - Medium
+Quickstart — Requests 2.22.0 documentation
+An Introduction to OAuth 2 | DigitalOcean
+Deploying Your Machine Learning Model as a REST API Using Flask
+How to call file upload REST API using Postman - Roy Tutorials
+Introduction to Postman for API Development - GeeksforGeeks
+Flask: An Easy Access Door to API development - Towards Data Science
+============================================================================
+Cluster: 41
+CRAN - Package caTools
+CRAN - Package caret
+CRAN - Package Metrics
+CRAN - Package ipred
+CRAN - Package PortfolioAnalytics
+CRAN - Package TTR
+CRAN - Package qrmtools
+CRAN - Package QRM
+CRAN - Package qrmdata
+CRAN - Package zoo
+CRAN - Package tseries
+CRAN - Package xts
+CRAN - Package fpp2
+CRAN - Package DAAG
+Tidy time series data using tsibbles | Rob J Hyndman
+============================================================================
+Cluster: 42
+Parallelize Machine Learning in R with Multi-Core CPUs - Data Acumen
+Dask — Dask 1.1.4 documentation
+Dask — Dask 1.1.3 documentation
+Parallel_Processing_in_Python
+2015-03-14-Parallel-Processing-on-Single-Machine-Part-I
+Quick Intro to Parallel Computing in R
+Speedup Your R Code with RStudio in AWS – Sicara's blog
+Overview of Parallel Processing in R – Learn by Marketing
+Let's be Faster and more Parallel in R with doParallel package | R-bloggers
+Working with Collections — Dask 2.10.1+32.gd676b2d8 documentation
+Why every Data Scientist should use Dask? - Towards Data Science
+Handling NetCDF Files using XArray for Absolute Beginners
+Big Data · OnlineStats Docs
+============================================================================
+Cluster: 43
+sklearn.linear_model.ElasticNet — scikit-learn 0.20.3 documentation
+Comparing elastic net to stochastic gradient descent for GLMs | Dustin Tran
+How and when: ridge regression with glmnet
+Penalized Logistic Regression Essentials in R: Ridge, Lasso and Elastic Net - Articles - STHDA
+CRAN - Package glmnet
+https://web.stanford.edu/~hastie/glmnet/glmnet_alpha.html
+LASSO, Ridge, and Elastic Net
+glmnet: fit a GLM with lasso or elasticnet regularization in glmnet: Lasso and Elastic-Net Regularized Generalized Linear Models
+Penalized Regression Essentials: Ridge, Lasso & Elastic Net - Articles - STHDA
+https://web.stanford.edu/~hastie/glmnet/glmnet_alpha.html#lin
+============================================================================
+Cluster: 44
+limit of x to infty ((x-xsqrt(x))/(2x^{ 3/2 )+3x-5}) - Limit Calculator - Symbolab
+Mathway | Trigonometry Problem Solver
+Solve the Equation ln(x+6)=ln(4+2x) - Answer | Math Problem Solver - Cymath
+Visual Math Editor
+Subscripts and superscripts - Overleaf, Online LaTeX Editor
+math.js | an extensive math library for JavaScript and Node.js
+Math - JavaScript | MDN
+Desmos | Graphing Calculator
+Online Derivative Calculator • Shows All Steps!
+Algebra for Calculus | Independent Learning
+MathJax basic tutorial and quick reference - Mathematics Meta Stack Exchange
+============================================================================
+Cluster: 45
+SciPy.org — SciPy.org
+Overview — NumPy v1.15 Manual
+numpy.vectorize — NumPy v1.16 Manual
+Numpy and Scipy Documentation — Numpy and Scipy documentation
+From Python to Numpy
+From Python to Numpy
+Look Ma, No For-Loops: Array Programming With NumPy – Real Python
+Welcome to SymPy’s documentation! — SymPy 1.6.2 documentation
+============================================================================
+Cluster: 46
+How do I get git to ignore my csv files? - Stack Overflow
+Git - gitignore Documentation
+.gitignore file - ignoring files in Git | Atlassian Git Tutorial
+linux - Add previously ignored directory to Git repository - Stack Overflow
+============================================================================
+Cluster: 47
+How to use proxies with an HTTP session using the Python requests package | Calazan.com
+Python Programming Tutorials
+Create a simple http server with Python 3 | Daan Lenaerts
+API Integration in Python – Part 1 – Real Python
+Python requests.Response Object
+Getting Started with Asyncio in Python | TutorialEdge.net
+Async_code_1 for downloading json (w/o aiofiles) · GitHub
+Async IO in Python: A Complete Walkthrough – Real Python
+Python 3 - An Intro to asyncio - The Mouse Vs. The Python
+Welcome to AIOHTTP — aiohttp 3.6.2 documentation
+Python Async basics video (100 million HTTP requests) – Andy Balaam's Blog
+Fast scraping in python with asyncio
+============================================================================
+Cluster: 48
+Adobe Connect @ Johns Hopkins
+Baltimore Map and Parking | Johns Hopkins Carey Business School
+My MathWorks Account
+JHU Whiting
+Resources - OpenRefine - LibGuides at University of Illinois at Urbana-Champaign
+Bionic Turtle | Acquire Expert Finance Skills, Pass the FRM Exam
+Dashboard | Khan Academy
+Zoom
+Lynda
+MBA at William & Mary
+EMERITUS Institute of Management - Global IVY Education
+Applied and Computational Mathematics | Johns Hopkins University Engineering for Professionals
+Online Mathematics, BS | Indiana University Online
+Search for online degree programs | Indiana University Online Online
+Think Julia: How to Think Like a Computer Scientist
+============================================================================
+Cluster: 49
+xgboost/cross_validation.py at master · dmlc/xgboost · GitHub
+BMC/detect_cusum.py at master · demotu/BMC · GitHub
+looping_python/ks_dp_solvers.py at master · mmamaev/looping_python
+handson-ml2/15_processing_sequences_using_rnns_and_cnns.ipynb at master · ageron/handson-ml2 · GitHub
+caret/glmStepAIC.R at master · topepo/caret · GitHub
+caret/preProcess.R at master · topepo/caret · GitHub
+Hadoopadoop/WordCount.java at master · o19s/Hadoopadoop
+HadoopExamples/src/com/marklogic/mapreduce/examples at master · marklogic/HadoopExamples
+Dash-by-Plotly/intro.py at master · Coding-with-Adam/Dash-by-Plotly
+dash-sample-apps/app.py at master · plotly/dash-sample-apps · GitHub
+Sample DAG to download from S3, sleep, and reupload · GitHub
+flask-tutorial/app.py at master · bhavaniravi/flask-tutorial · GitHub
+============================================================================
+Cluster: 50
+python - One-Hot-Encode categorical variables and scale continuous ones simultaneouely - Stack Overflow
+Impact of Scaling on Feature Selection with RFE
+Feature Scaling with scikit-learn – Ben Alex Keen
+Introducing the ColumnTransformer: applying different transformations to different features in a scikit-learn pipeline | Joris Van den Bossche
+Near-zero variance predictors. Should we remove them? | R-bloggers
+Exploring the caret package
+Scale, Standardize, or Normalize with Scikit-Learn - Towards Data Science
+sklearn.preprocessing.OneHotEncoder — scikit-learn 0.22.1 documentation
+Column Transformer with Mixed Types — scikit-learn 0.22.1 documentation
+Combating High Cardinality Features in Supervised Machine Learning | Mawazo
+============================================================================
+Cluster: 51
+Python Programming Tutorials
+fastcluster · PyPI
+Implementing the k-means algorithm with numpy | Frolian's blog
+K-Medoids in R: Algorithm and Practical Examples - Datanovia
+Data Clustering with K-Means Using Python -- Visual Studio Magazine
+GMM
+K-means Cluster Analysis · UC Business Analytics R Programming Guide
+Speeding up your code (2): vectorizing the loops with Numpy - By
+How to use a clustering technique for synthetic data generation
+============================================================================
+Cluster: 52
+StatsModels: Statistics in Python — statsmodels 0.9.0 documentation
+StatsModels: Statistics in Python — statsmodels 0.9.0 documentation
+GitHub - CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers: aka "Bayesian Methods for Hackers": An introduction to Bayesian methods + probabilistic programming with a computation/understanding-first, mathematics-second point of v
+Bayesian Methods for Hackers
+Data Analysis Examples - IDRE Stats
+Advanced Data Analysis from an Elementary Point of View
+Applied Statistics Using Stata: A Guide for the Social Sciences | SAGE Companion
+Statistics with R | Coursera
+Introduction to Statistical Learning
+Linear, Ridge and Lasso Regression comprehensive guide for beginners
+API Reference — statsmodels
+============================================================================
+Cluster: 53
+Dashboard | edX
+Master's Degree in Analytics - edX
+Big Data | edX
+Computer Science Essentials for Software Development | edX
+============================================================================
+Cluster: 54
+Dash by Plotly - Plotly
+Dash User Guide and Documentation - Dash by Plotly
+Dash Documentation & User Guide | Plotly
+How to Build a Reporting Dashboard using Dash and Plotly
+Dash Documentation & User Guide | Plotly
+============================================================================
+Cluster: 55
+Education - Overview - Microsoft Azure
+All resources - Microsoft Azure
+cse6242-2019fall-online - Overview - Microsoft Azure
+Microsoft Azure Notebooks
+============================================================================
+Cluster: 56
+Python Dashboards
+Getting Started With Testing in Python – Real Python
+unittest — Unit testing framework — Python 3.8.0 documentation
+Mocking, Monkey Patching, and Faking Functionality — Python 401 2.1 documentation
+Good Integration Practices — pytest documentation
+Testing Your Code — The Hitchhiker's Guide to Python
+pytest: helps you write better programs — pytest documentation
+Logging in Python – Real Python
+Improve Your Python: Understanding Unit Testing
+A Gentle Introduction to Normality Tests in Python
+============================================================================
+Cluster: 57
+Install MySQL on Sierra using Homebrew · GitHub
+MySQL :: MySQL and OS X :: 2 Installing MySQL on macOS Using Native Packages
+MySQL :: MySQL and OS X :: 2 Installing MySQL on macOS Using Native Packages
+How to Start & Stop MySQL Manually in OS X El Capitan & Yosemite
+PostgreSQL: macOS packages
+Installing Postgres via Brew (OSX) · GitHub
+pgAdmin4
+============================================================================
+Cluster: 58
+Python String Format Cookbook – mkaz.blog
+Creating Modules in Python 3 | DigitalOcean
+Modules and Packages - Learn Python - Free Interactive Python Tutorial
+Minimal Structure — Python Packaging Tutorial
+Configuration files in Python · Martin Thoma
+4. Code Reuse: Functions and Modules - Head First Python, 2nd Edition [Book]
+The Definitive Guide to Python import Statements | Chris Yeh
+Python Command Line Arguments
+Python Programming
+abc — Abstract Base Classes — Python 3.7.4 documentation
+Object-Oriented Programming (OOP) in Python 3 – Real Python
+Welcome to Click — Click Documentation (7.x)
+How to Write Go Code - The Go Programming Language
+Cookiecutter PyPackage — cookiecutter-pypackage 0.9.0 documentation
+Build Your First Open Source Python Project - Towards Data Science
+Manage dependencies using requirements.txt - Help | PyCharm
+2. Writing the Setup Script — Python 3.7.5 documentation
+Python docstring reStructuredText style · GitHub
+Improve Your Python: Python Classes and Object Oriented Programming
+Working with the Python Super Function
+mypy - Optional Static Typing for Python
+MonkeyType — MonkeyType 19.11.3.dev1 documentation
+How to share global variables between files in Python - Instructobit
+functools — Higher-order functions and operations on callable objects — Python 3.7.4 documentation
+A quick dive into Python’s “__slots__” - Noteworthy - The Journal Blog
+============================================================================
+Cluster: 59
+Pythex: a Python regular expression editor
+RegExr: Learn, Build, & Test RegEx
+Regex Cheat Sheet
+re — Regular expression operations — Python 3.7.2 documentation
+openrefine.github.com
+General Refine Expression Language · OpenRefine/OpenRefine Wiki
+Recipes · OpenRefine/OpenRefine Wiki
+============================================================================
+Cluster: 60
+Visual Studio Dark • TmTheme Editor
+Visual Studio Dark • TmTheme Editor
+ColorBrewer: Color Advice for Maps
+ColorBrewer: Color Advice for Maps
+============================================================================
+Cluster: 61
+Automate the Boring Stuff with Python
+Optimization with PuLP — PuLP v1.4.6 documentation
+Python Tutorials — Advance Python Tutorials documentation
+From ‘R vs Python’ to ‘R and Python’ - Towards Data Science
+Python Design Patterns
+Python Data Science Handbook | Python Data Science Handbook
+DataCamp
+Python for Everybody | Coursera
+Applied Data Science with Python | Coursera
+Intermediate Data Science: Python - Online Course | Springboard
+Supercharge Your Classes With Python super() – Real Python
+Table of Contents — How to Think like a Computer Scientist: Interactive Edition
+============================================================================
+Cluster: 62
+ggplot | Home
+CRAN - Package WVPlots
+ggfortify package | R Documentation
+CRAN - Package GGally
+rpart.plot function | R Documentation
+quantmod: Quantitative Financial Modelling Framework
+Plotting Diagnostics for Linear Models
+RPubs - Diagnostic Plots using ggplot2
+Introduction to cowplot
+python - Poisson Regression in statsmodels and R - Stack Overflow
+Linear Models in R: Diagnosing Our Regression Model - The Analysis Factor
+A Q-Q Plot Dissection Kit
+============================================================================
+Cluster: 63
+MyUMUC
+Dynamically Generating DAGs in Airflow
+Using Airflow Datastores
+Integrating Slack Alerts in Airflow - DataReply - Medium
+Airflow: Lesser Known Tips, Tricks, and Best Practises
+Concepts — Airflow Documentation
+============================================================================
